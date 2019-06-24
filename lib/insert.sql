@@ -9,6 +9,7 @@ INSERT INTO authors(name) VALUES ("Brandon Sanderson");
 
 INSERT INTO books(title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 1);
 INSERT INTO books(title, year, series_id) VALUES ("The Two Towers", 1954, 1);
-INSERT INTO books(title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 1);
+INSERT INTO books(title, year, series_id) VALUES ("Return of the King", 1955, 1);
 INSERT INTO books(title, year, series_id) VALUES ("The Way of Kings", 2001, 2)
-
+INSERT INTO books(title, year, series_id) VALUES ("The Way of Kings", 2001, 2)
+INSERT INTO books(title, year, series_id) VALUES ("The Way of Kings", 2001, 2)
