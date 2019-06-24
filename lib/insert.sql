@@ -21,3 +21,4 @@ INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("The 
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Kahladin", "WHINE", "Human", 2, 2);
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Shalan", "I Lie", "Human", 2, 2);
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Jasnau", "The desolation", "Princess", 2, 2);
+INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Kahladin", "WHINE", "Human", 2, 2);
