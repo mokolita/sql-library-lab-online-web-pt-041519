@@ -19,3 +19,4 @@ INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Gand
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Tom Bombadil", "I'm a bear", "bear_man", 1, 1);
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("The Mouth of Sauron", "I have no eyes", "beast", 1, 1);
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Kahladin", "WHINE", "Human", 2, 2);
+INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Kahladin", "WHINE", "Human", 2, 2);
