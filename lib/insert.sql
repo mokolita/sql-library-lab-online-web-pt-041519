@@ -16,5 +16,6 @@ INSERT INTO books(title, year, series_id) VALUES ("Oathbringer", 2017, 2);
 
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Frodo", "YIKES", "Hobbit", 1, 1);
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Gandalf", "YOU SHALL NOT PASS", "Wizard", 1, 1);
-INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Tom Bombadil", "YIKES", "Hobbit", 1, 1);
-INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Frodo", "YIKES", "Hobbit", 1, 1);
+INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Tom Bombadil", "I'm a bear", "bear_man", 1, 1);
+INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("The Mouth of Sauron", "I have no eyes", "beast", 1, 1);
+INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Kahladin", "WHINE", "Human", 2, 2);
