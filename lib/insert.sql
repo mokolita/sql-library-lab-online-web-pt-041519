@@ -22,3 +22,8 @@ INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Kahl
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Shalan", "I Lie", "Human", 2, 2);
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Jasnau", "The desolation", "Princess", 2, 2);
 INSERT INTO characters(name, motto, species, author_id, series_id) VALUES ("Sin", "float float", "Spren", 2, 2);
+
+INSERT INTO character_books(character_id, book_id) VALUES (1, 1)
+INSERT INTO character_books(character_id, book_id) VALUES (1, 2)
+INSERT INTO character_books(character_id, book_id) VALUES (1, 3)
+INSERT INTO character_books(character_id, book_id) VALUES (2, 1)
